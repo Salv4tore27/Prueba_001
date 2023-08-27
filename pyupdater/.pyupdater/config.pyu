@@ -1,0 +1,22 @@
+{
+  "config_dir": "C:\\Users\\karlo\\Documents\\GitHub\\Prueba_001\\pyupdater\\.pyupdater",
+  "filename": "C:\\Users\\karlo\\Documents\\GitHub\\Prueba_001\\pyupdater\\.pyupdater\\config.pyu",
+  "count": 0,
+  "app_config": {
+    "APP_NAME": "prueba",
+    "CLIENT_CONFIG_PATH": [
+      "https://github.com/Salv4tore27/Prueba_001.git",
+      "client_config.py"
+    ],
+    "COMPANY_NAME": "blaze checker",
+    "PLUGIN_CONFIGS": {},
+    "UPDATE_PATCHES": true,
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "HTTP_TIMEOUT": 30,
+    "UPDATE_URLS": [
+      "https://github.com/Salv4tore27/Prueba_001.git",
+      "https://github.com/Salv4tore27/Prueba_001.git"
+    ],
+    "DATA_DIR": "C:\\Users\\karlo\\Documents\\GitHub\\Prueba_001\\pyupdater"
+  }
+}
